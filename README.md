@@ -9,6 +9,8 @@ Construa um algoritmo para implementar a classe Aluno(código, nome, matrícula)
 
 ![image](https://user-images.githubusercontent.com/74319133/130538167-83aeaeb5-7696-4bb2-be98-e611c245b556.png)
 
+_____________________________________________________________________________________________________________________________________________
+
 *Atividade Computador*
 1) Construir código necessário em Python para implementar o seguinte projeto: Uma classe abstrata chamada de Computador que contém os atributos/propriedades modelo, cor e preço. Esta classe também possui um método getInformacoes() que retorna todos os valores dos atributos. Esta classe também possui um método abstrato cadastrar().
 
