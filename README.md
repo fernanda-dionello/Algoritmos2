@@ -20,4 +20,8 @@ ________________________________________________________________________________
 
 4) Construa um arquivo do tipo main com a utilização das classes construídas, para teste dos algoritmos.
 
+_____________________________________________________________________________________________________________________________________________
 
+*Lista Duplamente Encadeada*
+
+Construa o algoritmo em Python de uma lista duplamente encadeada que possui uma função para inserir elementos, uma para imprimir os elementos nao rdem que foram inseridos e uma função para imprimir os elementos na ordem inversa a que foram inseridos.
