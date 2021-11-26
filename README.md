@@ -24,4 +24,10 @@ ________________________________________________________________________________
 
 *Lista Duplamente Encadeada*
 
-Construa o algoritmo em Python de uma lista duplamente encadeada que possui uma função para inserir elementos, uma para imprimir os elementos nao rdem que foram inseridos e uma função para imprimir os elementos na ordem inversa a que foram inseridos.
+Construa o algoritmo em Python de uma lista duplamente encadeada que possui uma função para inserir elementos, uma para imprimir os elementos na ordem que foram inseridos e uma função para imprimir os elementos na ordem inversa a que foram inseridos.
+
+_____________________________________________________________________________________________________________________________________________
+
+*Pilha*
+
+Construa o algoritmo em Python de uma pilha que possui uma função para inserir elementos, uma para imprimir os elementos e outra para deletar elementos da pilha.
